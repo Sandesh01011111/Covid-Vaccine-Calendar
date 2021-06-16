@@ -1,0 +1,2 @@
+# CovidVaccineCalendar
+Created a single main window GUI application that displays the current time, displays two calendars and has a button to give the user information on their vaccine date. The first calendar is locked and only displays the current date. The second calendar allows the user to interact with the calendar and select the date their covid vaccine. When the user clicks the submit button, the program displays how many days are left till the users covid vaccine date. 
